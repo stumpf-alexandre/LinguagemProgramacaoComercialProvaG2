@@ -1,0 +1,8 @@
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\bin\Debug\netcoreapp2.0\g2.Alexandre.Domain.deps.json
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\bin\Debug\netcoreapp2.0\g2.Alexandre.Domain.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\bin\Debug\netcoreapp2.0\g2.Alexandre.Domain.pdb
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\obj\Debug\netcoreapp2.0\g2.Alexandre.Domain.csproj.CoreCompileInputs.cache
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\obj\Debug\netcoreapp2.0\g2.Alexandre.Domain.AssemblyInfoInputs.cache
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\obj\Debug\netcoreapp2.0\g2.Alexandre.Domain.AssemblyInfo.cs
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\obj\Debug\netcoreapp2.0\g2.Alexandre.Domain.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.Domain\obj\Debug\netcoreapp2.0\g2.Alexandre.Domain.pdb

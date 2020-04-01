@@ -1,0 +1,36 @@
+@model g2.Alexandre.Domain.TarefaPendente
+<div class="form-horizontal">
+    <form action="Create" method="POST">
+        <div class="form-group">
+            <label></label>
+            <input class="form-control"
+                    type="hidden" 
+                    name="id"/>
+        </div>
+        <div class="form-group">
+            <label>Prioridade da Execução</label>
+            <input class="form-control"
+                    type="text"
+                    name="prioridade"/>
+        </div>
+        <div class="form-group">
+            <label>Nome da Tarefa</label>
+            <input class="form-control"
+                    type="text" 
+                    name="nomeTarefa"/>
+        </div>
+        <div class="form-group">
+            <label>Data da Execução</label>
+            <input class="form-control"
+                    type="text" 
+                    name="dataExec"/>
+        </div>
+        <div class="form-group">
+            <label>Porcentagem de Execução</label>
+            <input class="form-control"
+                    type="text" 
+                    name="percentual"/>
+        <input class="btn btn-primary"
+                type="submit" value="Salvar"/>
+    </form>
+</div>

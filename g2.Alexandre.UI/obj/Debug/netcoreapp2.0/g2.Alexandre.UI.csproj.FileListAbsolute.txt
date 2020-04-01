@@ -1,0 +1,14 @@
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.UI.deps.json
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.UI.runtimeconfig.json
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.UI.runtimeconfig.dev.json
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.UI.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.UI.pdb
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\obj\Debug\netcoreapp2.0\g2.Alexandre.UI.csproj.CoreCompileInputs.cache
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\obj\Debug\netcoreapp2.0\g2.Alexandre.UI.AssemblyInfoInputs.cache
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\obj\Debug\netcoreapp2.0\g2.Alexandre.UI.AssemblyInfo.cs
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\obj\Debug\netcoreapp2.0\g2.Alexandre.UI.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\obj\Debug\netcoreapp2.0\g2.Alexandre.UI.pdb
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.Domain.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.Repository.dll
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.Repository.pdb
+C:\Users\als\Desktop\VS_Code\G2\g2.Alexandre.UI\bin\Debug\netcoreapp2.0\g2.Alexandre.Domain.pdb

@@ -1,0 +1,31 @@
+@model IEnumerable<g2.Alexandre.Domain.TarefaPendente>
+<a href="TarefaPendente/Create">Nova Tarefa</a>
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Prioridade da Execução</th>
+                <th>Nome da Tarefa</th>
+                <th>Data da Execução</th>
+                <th>Porcentagem de Execução</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.prioridade</td>
+                <td>@item.nomeTarefa</td>
+                <td>@item.dataExec</td>
+                <td>@item.percentual</td>
+                <td><a class="btn btn-danger" href="TarefaPendente/Delete/@item.id">Deletar</a> </td>
+                <td><a class="btn btn-primary" href="TarefaPendente/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
